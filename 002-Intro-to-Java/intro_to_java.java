@@ -1,6 +1,6 @@
 class Intro_to_Java {
 
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		// Write your code here
 
 		// IDE -> Integrated Development Environment
@@ -12,7 +12,7 @@ class Intro_to_Java {
 		 * A dog on road the is there. -> Incorrect grammar
 		 * 
 		 * Java -> Programming language
-		 * Programming language grammar/rules -> Syntax
+		 * grammar/rules -> Syntax
 		 */
 
 		System.out.print("Hello World!"); // Correct
@@ -20,7 +20,7 @@ class Intro_to_Java {
 		// System.out("Hello World!"); // Incorrect
 		// System.out.print(Hello world!); Incorrect
 
-		System.out.print("Hello Aarnav!"); // Text - use ""
+		System.out.print("Hello Aarav!"); // Text - use ""
 		System.out.print(123); // Numbers - don't use ""
 		System.out.print(12.56);
 		System.out.print(-10.23);
