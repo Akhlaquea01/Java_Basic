@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/002-Intro-to-Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/003-input-&amp;-output" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/004-If-else" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/005-While-loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/006-For_Loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/007-Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/008-Function" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/009-Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/010-ArrayList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/011-Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/012-Switch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/013-Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/014-PojosOrDTO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/015-Inheritance" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

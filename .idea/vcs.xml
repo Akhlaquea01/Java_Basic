@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../JavaScript_tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PythonCource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../React" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../docker-databases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../node-app" vcs="Git" />
+  </component>
+</project>
