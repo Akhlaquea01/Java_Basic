@@ -27,6 +27,15 @@ public class Account {
     }
 
     /**
+     * A constructor that initializes customer details with default balance.
+     * This is useful when creating a new account with just basic customer information.
+     */
+    public Account(String customerName, String email, String phone) {
+        this("00000", 0.0, customerName, email, phone);
+        System.out.println("Account constructor with customer details called.");
+    }
+
+    /**
      * A constructor that initializes all the fields of the Account.
      */
     public Account(String number, double balance, String customerName, String email, String phone) {
