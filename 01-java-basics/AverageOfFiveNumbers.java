@@ -7,12 +7,13 @@ import java.util.Scanner;
 public class AverageOfFiveNumbers {
 
     // Define a constant for the number of inputs to easily change it later.
-    private static final int COUNT_OF_NUMBERS = 5;
+    private static int COUNT_OF_NUMBERS = 5;
 
     public static void main(String[] args) {
         // Create a Scanner object to read input from the console.
+        System.out.print("Enter number of numbers:");
         Scanner scanner = new Scanner(System.in);
-
+        COUNT_OF_NUMBERS= scanner.nextInt();
         // Initialize sum to 0. This variable will store the sum of the numbers.
         double sum = 0;
 
